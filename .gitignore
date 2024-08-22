@@ -1,0 +1,8 @@
+# Ignore the dataset folder
+dataset/
+
+# Ignore the myenv folder (virtual environment)
+myenv/
+
+# Ignore the Notebooks folder
+Notebooks/

@@ -1,0 +1,2 @@
+*.pkl filter=lfs diff=lfs merge=lfs -text
+Real_Estate_App/pipeline.pkl filter=lfs diff=lfs merge=lfs -text
