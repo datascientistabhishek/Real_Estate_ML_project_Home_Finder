@@ -22,27 +22,27 @@ Real Estate: Home Finder is your go-to web application for navigating the comple
 
 ### Requirements
 
-- Python 3.12+
+- Python 3.11+
 - pip package manager
 
 ### Quick Setup
 
 1. Clone the repository:
 
-    `git clone https://github.com/22Ranjan15/House-Flat_Price_Prediction.git`
+    `git clone https://github.com/datascientist/Real_Estate_ML_project_Home_Finder.git`
    
-    `cd House-Flat_Price_Prediction`
+    `cd Real_Estate_ML_project_Home_Finder`
 
 3. Create and activate a virtual environment (optional but recommended):
 
     - Create virtual environment: `python3 -m venv venv`
    
     - Activate virtual environment on Windows: `venv\Scripts\activate`
-3️⃣ Install dependencies:
-pip install -r requirements.txt
-4️⃣ Launch the app:
-streamlit run Home.py
-5️⃣ Open your browser and go to the local URL provided.
+4. Install dependencies:
+`pip install -r requirements.txt`
+5. Launch the app:
+`streamlit run Home.py`
+6. Open your browser and go to the local URL provided.
 
 ## 🧭 Navigation
 
