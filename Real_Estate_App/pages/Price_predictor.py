@@ -6,10 +6,10 @@ import numpy as np
 st.set_page_config(page_title = "Viz Demo")
 # st.title('Page 1')
 
-with open('D:\Gurgaon_real_estate_project\Real_Estate_App\df.pkl','rb') as file:
+with open('Real_Estate_App\df.pkl','rb') as file: # D:\Gurgaon_real_estate_project\
     df = pickle.load(file)
 
-with open('D:\Gurgaon_real_estate_project\Real_Estate_App\pipeline.pkl','rb') as file:
+with open('Real_Estate_App\pipeline.pkl','rb') as file: # D:\Gurgaon_real_estate_project\
     pipeline = pickle.load(file)
 #st.dataframe(df)  
 

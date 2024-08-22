@@ -197,7 +197,7 @@ st.set_page_config(
 st.sidebar.success("Select one option to proceed with your query")
 
 # Display the image
-st.image(r"D:\Gurgaon_real_estate_project\Real_Estate_App\real_estate_image.png", use_column_width=True)
+st.image(r"real_estate_image.png", use_column_width=True)
 
 # Welcome message and introduction
 st.markdown(

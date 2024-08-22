@@ -5,7 +5,7 @@ import pandas as pd
 
 st.set_page_config(page_title="Recommender page for Appartments") 
 
-location_df = pickle.load(open('D:\Gurgaon_real_estate_project\Real_Estate_App\dataset_for_app\distance_location.pkl','rb'))
+location_df = pickle.load(open('Real_Estate_App\dataset_for_app\distance_location.pkl','rb')) #D:\Gurgaon_real_estate_project\
 #st.dataframe(location_df)
 # cosine_sim1 = pickle.load(open('cosine_sim1.pkl','rb'))
 # cosine_sim2 = pickle.load(open('cosine_sim2.pkl','rb'))
