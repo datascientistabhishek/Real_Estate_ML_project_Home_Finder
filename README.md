@@ -17,7 +17,6 @@ Real Estate: Home Finder is your go-to web application for navigating the comple
 - 🔄 Real-time market data
 - 🖱️ User-friendly interface
 - 🎯 Customizable search options
-- 🧠 AI-powered price forecasting
 
 ## 🛠️ Getting Started
 
