@@ -70,7 +70,7 @@ This project is under the MIT License. See `LICENSE` for more details.
 
 Questions or ideas? Reach out!
 
-- 🐱 GitHub: [datascientistabhishek]
+- 🐱 GitHub: [datascientistabhishek](https://github.com/datascientistabhishek)
 - 📧 Email: [msd23020@iiitl.ac.in]
 
 ---
